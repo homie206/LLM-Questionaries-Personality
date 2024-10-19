@@ -11,7 +11,7 @@ import re
 import pandas as pd
 import ast
 from openai import OpenAI
-client = OpenAI(api_key=" ")
+client = OpenAI()
 import time
 import os
 import openai

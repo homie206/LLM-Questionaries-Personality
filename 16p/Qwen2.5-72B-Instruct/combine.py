@@ -2,13 +2,13 @@ from openai import OpenAI
 
 
 def getQwenClient():
-    openai_api_key = " "
+
 
     openai_api_base = "https://its-tyk1.polyu.edu.hk:8080/llm/qwen2.5-72b-instruct"
 
     client = OpenAI(
         # defaults to os.environ.get("OPENAI_API_KEY")
-        api_key=openai_api_key,
+
         base_url=openai_api_base,
     )
     return client
