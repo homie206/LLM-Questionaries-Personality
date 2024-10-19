@@ -103,7 +103,7 @@ def extract_first_number(answer):
 
 
 def getQwenClient():
-    openai_api_key = "qwen2-vl-72b-instruct-11d192155ed04237ae898b80befdc1a8"
+    openai_api_key = " "
 
     openai_api_base = "https://its-tyk1.polyu.edu.hk:8080/llm/qwen2-vl-72b-instruct"
 

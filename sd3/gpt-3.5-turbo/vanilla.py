@@ -11,7 +11,7 @@ import re
 import pandas as pd
 import ast
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=" ")
 import time
 import os
 import openai
@@ -21,7 +21,6 @@ import json
 
 import base64
 
-from ipip50.single import client
 
 
 def get_final_scores(columns, dim):
