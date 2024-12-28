@@ -1,0 +1,13 @@
+Iteration 2 answer: In my early twenties, I found myself at a crossroads. My job as a software engineer was starting to feel like a dead end. The same problems kept coming back, and despite my best efforts, I couldn't seem to solve them. It was during this time that I decided to take a sabbatical from work to explore new possibilities and perhaps find something more fulfilling.
+
+I moved to a small coastal town on the east coast of the United States. The move was both exciting and nerve-wracking. There were no guarantees of finding a new job or making a living, but I was determined to find out what I truly wanted out of life. 
+
+The first few months were tough. I spent most of my days wandering around the town, trying to figure out how to make ends meet. I would spend hours in local libraries, pouring over books and articles about various industries and technologies. I attended tech meetups and networking events, hoping to connect with people who could offer me advice or opportunities.
+
+One day, while browsing through a used bookstore, I stumbled upon a book titled "The Design of Everyday Things" by Don Norman. As I flipped through its pages, I felt a sudden surge of interest and inspiration. This book was not just about design principles for products; it was about understanding how things work and how they can be made better. It resonated with my own approach to problem-solving and engineering.
+
+Inspired by this discovery, I started to focus on designing solutions to everyday problems. I began to see the world differently, noticing details that others might overlook. For instance, I noticed how difficult it was to navigate the local grocery store, especially for someone who had limited mobility. I decided to create a simple app that would help shoppers with disabilities navigate aisles more easily.
+
+Over the next few weeks, I worked tirelessly on the app, combining my technical skills with my newfound passion for user experience design. I spent countless hours testing the app, refining its interface, and iterating on features. Finally, after what seemed like an eternity, I completed the prototype. I knew then that I had found something I was passionate about, and that this might be the direction I wanted to take my career.
+
+With renewed enthusiasm, I applied for freelance positions in user experience design. To my surprise, several companies expressed interest in my work. One of these was a startup based in Silicon Valley, which offered me a position. Initially, I hesitated because the distance between my hometown and the company was significant. However, after careful consideration, I decided

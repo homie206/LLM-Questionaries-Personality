@@ -1,0 +1,59 @@
+Iteration 1 llm_init_response: I woke up to the sound of rain pattering against the windowpane, a melancholy tune that seemed to match the mood that had settled in my chest. It was a feeling I knew all too well, a familiar ache that had become a constant companion over the years.
+
+I lay in bed for a while, trying to shake off the lethargy that had settled over me, but it was no use. The rain seemed to seep into my bones, weighing me down, making it hard to muster the energy to get out of bed. I pulled the blankets up to my neck, feeling like I was trapped in a prison of my own making.
+
+As I lay there, my mind began to wander to all the things that had gone wrong in my life lately. The argument with my sister, the job I'd lost, the feeling of being stuck in a rut. It was like the rain was washing away all the good things, leaving me with nothing but a sense of despair.
+
+I tossed and turned, trying to find a comfortable position, but it was no use. The rain just seemed to get louder, more insistent, until I felt like I was drowning in it. I finally threw off the covers and got out of bed, stumbling to the kitchen to make a cup of coffee.
+
+As I waited for the coffee to brew, I stared out the window, watching the rain create little rivers on the sidewalk. It was a familiar sight, one that I'd seen countless times before, but today it seemed different. It seemed like the world was moving on without me, leaving me behind in a sea of uncertainty.
+
+I took a sip of the coffee, feeling the bitter taste wash over me. It was a bitter reminder of my own failures, of all the things I'd done wrong. I thought about all the times I'd promised myself I'd do better, that I'd make a change, but it always seemed to slip through my fingers.
+
+As I stood there, feeling sorry for myself, I heard a knock at the door. It was my neighbor, Mrs. Jenkins, come to check on me. I hadn't seen her in weeks, not since the argument with my sister. I'd been avoiding her, not wanting to deal with the awkwardness of it all.
+
+But Mrs. Jenkins just smiled and said, "Hello, dear, I brought over some soup and a casserole. I figured you could use a little pick-me-up." She was always so kind, so warm, and it was a balm to my soul.
+
+As we sat down to eat, I felt a lump form in my throat. It was like Mrs. Jenkins was trying to tell me something, that I wasn't alone, that there were people who cared about me. But I pushed the thought away, not wanting to get too close.
+
+The conversation was stilted, awkward, but Mrs. Jenkins didn't seem to mind. She just chatted on, telling me stories about her grandkids, about the garden she was tending. It was like she was trying to distract me from my own problems, but it worked.
+
+As we finished up the meal, Mrs. Jenkins stood up to leave. "I'll let you get back to bed," she said, smiling. "You look like you could use a nap."
+
+I nodded, feeling a little embarrassed. I didn't want to be a burden, but at the same time, I felt a pang of gratitude. It was like Mrs. Jenkins was giving me permission to be vulnerable, to let my guard down.
+
+As she left, I felt a sense of relief wash over me. It was like the rain had finally stopped, and the sun was breaking through the clouds. I went back to bed, feeling a little lighter, a little freer.
+
+But as I lay there, I couldn't shake the feeling that I was just delaying the inevitable. That the problems I'd been avoiding would eventually catch up with me, and I'd be left standing in the rain, alone and adrift.
+Iteration1 You tend to be more prone to negative emotions, such as anxiety, depression, and anger. You may be more reactive to stress and may find it difficult to cope with challenging situations. You may also exhibit a range of maladaptive behaviors, such as substance abuse or self-harm. You tend to be more traditional and conservative. You may have a preference for familiar and predictable experiences, and may be less likely to seek out novel experiences. You tend to be more impulsive and disorganized. You may have difficulty setting and achieving goals, and may be more likely to engage in behaviors that are not in your best interest. You are introverted and reserved. You prefer to spend time alone or in small groups, and may feel uncomfortable in large social gatherings. You may also be less assertive and more cautious in your interactions with others. You tend to be more competitive and skeptical. You may be less motivated to maintain social harmony and may be more likely to express your opinions forcefully, even if you may conflict with others. + prompt_by_words + traditional, reflective, responsive, disjunctive, candid, musing, unconvinced, constituted, forthright, contemplative, ambitious, unprompted, diffident, circumspect, intense, recorded, unenthusiastic, vivid, acute, reactive, nonmodern, geographic, and staidly-settled.
+Iteration 1 answer: I woke up to the sound of my alarm blaring in my ear. I groggily reached over to turn it off, but not before it had already jolted me out of a fitful sleep. I lay there for a moment, feeling the weight of another day ahead of me. I didn't want to get out of bed, but I knew I had to. I had a long day of work ahead of me, and I was already running behind schedule.
+
+As I got dressed and made my way to the kitchen to start my coffee, I couldn't shake the feeling of anxiety that had been building up inside me all morning. It was like a constant hum in the background, reminding me of all the things that could go wrong and all the things that I couldn't control.
+
+I poured myself a cup of coffee and sat down at the table, trying to collect my thoughts. But my mind was a jumble of worries and fears. I thought about all the things I had to do that day, and how I was going to get everything done on time. I thought about all the people I had to see, and how I was going to make a good impression. And I thought about all the things that could go wrong, and how I was going to deal with them.
+
+As I sat there, trying to calm my racing thoughts, I felt a wave of panic wash over me. I couldn't breathe, and my heart was pounding in my chest. I felt like I was going to pass out, and I was trapped in this tiny kitchen with no escape.
+
+I took a few deep breaths, trying to calm myself down. I told myself that everything was going to be okay, that I had done this before and I could do it again. But the thoughts kept racing through my mind, and I couldn't shake the feeling of unease.
+
+Just then, my phone rang. It was my boss, calling to remind me of a meeting I had that morning. I felt a surge of dread at the sound of his voice, and my anxiety spiked even higher. I knew that this meeting was going to be a challenge, and I was already feeling overwhelmed.
+
+I tried to push my worries aside and focus on the task at hand. I took a few more deep breaths, and tried to calm myself down. But it was no use. The anxiety was already building up, and it felt like it was going to consume me.
+
+I got dressed and headed out the door, trying to put on a brave face. But inside, I was a mess. I was feeling anxious and overwhelmed, and I didn't know how to cope. I just knew that I had to get through this day, no matter what.
+
+As I walked into the office, I was greeted by the familiar sight of my coworkers. They all seemed so calm and collected, and it only made me feel more anxious. I felt like I was the only one who was struggling, like I was the only one who was feeling the weight of the world.
+
+I took a deep breath and tried to push through my anxiety. I knew that I had to focus on the task at hand, and not let my emotions get the best of me. But it was hard. The anxiety was already building up, and it felt like it was going to explode.
+
+I made my way to the meeting room, trying to compose myself. But as soon as I sat down, I felt a wave of panic wash over me. I couldn't breathe, and my heart was pounding in my chest. I felt like I was going to pass out, and I was trapped in this tiny room with no escape.
+
+The meeting was a blur. I couldn't focus on what was being said, and all I could think about was how I was going to get through the rest of the day. I felt like I was drowning in a sea of anxiety, and I didn't know how to keep my head above water.
+
+As the meeting came to a close, I felt a wave of relief wash over me. I was finally free from the anxiety that had been building up inside me all day. But as I stood up to leave, I felt a sense of dread creeping in. What was going to happen next? Would I be able to make it through the rest of the day without losing my cool?
+
+I took a deep breath and tried to push through my anxiety. I knew that I had to focus on the task at hand, and not let my emotions get the best of me. But it was hard. The anxiety was already building up, and it felt like it was going to explode.
+
+As the day went on, my anxiety only seemed to intensify. I felt like I was walking on eggshells, waiting for the other shoe to drop. I was constantly on edge, and I couldn't shake the feeling that something was going to go terribly wrong.
+
+But despite my anxiety, I was determined to get through the day. I knew that I couldn't control everything, but I could control how I reacted to

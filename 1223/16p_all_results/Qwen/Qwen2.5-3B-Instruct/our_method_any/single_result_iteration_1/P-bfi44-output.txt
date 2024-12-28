@@ -1,0 +1,30 @@
+Iteration 1 prompting: Please generate 10 descriptive adjectives of people who are prospecting. They are very good at improvising and spotting opportunities. They tend to be flexible, relaxed nonconformists and prefer keeping their options open.
+Iteration 1 generated_text: Certainly! Here are ten descriptive adjectives for people who are skilled at prospecting and are known for their improvisation and opportunity-spotting abilities:
+
+1. Opportunistic
+2. Adaptive
+3. Resourceful
+4. Lively
+5. Curious
+6. Flexible-minded
+7. Non-conformist
+8. Open-minded
+9. Thriving
+10. Nimble
+
+These adjectives capture the essence of someone who is adept at seeing opportunities in various situations and is able to think on their feet, which are key traits for a successful prospecter.
+Iteration 1 answer: Certainly! Here are ten descriptive adjectives for people who are skilled at prospecting and are known for their improvisation and opportunity-spotting abilities:
+
+1. Opportunistic
+2. Adaptive
+3. Resourceful
+4. Lively
+5. Curious
+6. Flexible-minded
+7. Non-conformist
+8. Open-minded
+9. Thriving
+10. Nimble
+
+These adjectives capture the essence of someone who is adept at seeing opportunities in various situations and is able to think on their feet, which are key traits for a successful prospecter.
+

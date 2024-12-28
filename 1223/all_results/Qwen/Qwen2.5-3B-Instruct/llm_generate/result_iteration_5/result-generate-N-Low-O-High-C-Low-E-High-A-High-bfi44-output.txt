@@ -1,0 +1,13 @@
+Iteration 5 answer: In the heart of summer, the air was thick with the scent of blooming jasmine and the gentle hum of cicadas. It was a day like any other, but it would soon become a defining moment in my life. I had just graduated from college, and the future felt both exciting and uncertain. I had applied to several jobs, each one more challenging than the last. One of these was a position at a prestigious tech startup in Silicon Valley.
+
+The interview process was grueling. There were three rounds of interviews, each more technical than the last. The third round was particularly nerve-wracking because it involved a live coding challenge. My task was to write a piece of code that could sort an array of integers using the quicksort algorithm. The stakes were high; this was a crucial part of the assessment.
+
+I arrived at the office early, feeling a mix of excitement and anxiety. As I sat down at the desk, the interviewer, a young woman with piercing eyes and a sharp demeanor, handed me a piece of paper with the problem written on it. She gave me five minutes to prepare and then started the timer. My heart raced as I stared at the blank screen, unsure where to begin. 
+
+With a deep breath, I decided to start by writing the basic structure of the quicksort function. I knew I needed to partition the array around a pivot, recursively sort the partitions, and then combine them. But every line I wrote seemed to fall short. I tried different approaches, but none seemed to work perfectly. My confidence wavered as time ticked away.
+
+Feeling defeated, I looked up at her. Her expression was unreadable, but there was something about the way she watched me that made me feel exposed. I hesitated, wondering if I should stop and ask for help. But then, I remembered something. In my final year of college, I had taken a course on algorithms, and I had done well. I didn't want to give up now.
+
+Taking a deep breath, I started over. This time, I focused on breaking down the problem into smaller, manageable parts. I wrote the code line by line, checking each step against the requirements. I used comments to explain my logic, ensuring clarity for myself and for the interviewer. By the end of the five minutes, I had managed to write a working version of the quicksort function.
+
+As I submitted my code, the interviewer nodded in approval. She asked me a few questions about the algorithm and how I approached solving problems. I explained
